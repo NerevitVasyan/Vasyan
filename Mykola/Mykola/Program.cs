@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace Mykola
 {
-    class User
+    class Car
     {
-        public string Login { get; set; }
-        private int Password { get; set; }
+        public object Percon { get; set; }
+        public int Chear { get; set; }
+        public int Nomber { get; set; }
     }
 
     class Person
