@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Mykola
 {
+    class User
+    {
+        public string Login { get; set; }
+        private int Password { get; set; }
+    }
+
     class Program
     {
         static void Main(string[] args)
