@@ -30,6 +30,7 @@ namespace Mykola
     {
         static void Main(string[] args)
         {
+            Car c = new Car(new Person(),100,20);
             Console.WriteLine("Mykola");
             Console.WriteLine("Vitaly");
             Console.WriteLine("zxczxc");
