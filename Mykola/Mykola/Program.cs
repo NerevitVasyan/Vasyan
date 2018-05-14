@@ -12,6 +12,7 @@ namespace Mykola
         {
             Console.WriteLine("Mykola");
             Console.WriteLine("Vitaly");
+            Console.WriteLine("zxczxc");
         }
     }
 }
