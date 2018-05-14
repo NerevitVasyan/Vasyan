@@ -11,6 +11,13 @@ namespace Mykola
         public object Percon { get; set; }
         public int Chear { get; set; }
         public int Nomber { get; set; }
+
+        public Car(object p,int c,int n)
+        {
+            Percon = p;
+            Chear = c;
+            Nomber = n;
+        }
     }
 
     class Person
