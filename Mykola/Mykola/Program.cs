@@ -11,6 +11,7 @@ namespace Mykola
         static void Main(string[] args)
         {
             Console.WriteLine("Mykola");
+            Console.WriteLine("Vitaly");
         }
     }
 }
