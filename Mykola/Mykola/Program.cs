@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Mykola
 {
+    class Person
+    {
+        public int ID { get; set; }
+        public string Name { get; set; }
+    }
     class Program
     {
         static void Main(string[] args)
